@@ -1,0 +1,9 @@
+{
+	"name": "dataengfactoriess",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "557d0d45-8dd9-4afd-8971-06a1d7d838e9",
+		"tenantId": "9162c224-6560-48b3-b944-7fcaab69701b"
+	}
+}
